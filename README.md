@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yijun Tan, a PHD student University of Chinese Academy of Sciences.
+I'm Yijun Tan, a PHD student of University of Chinese Academy of Sciences.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHtyt)](https://github.com/GHtyt/github-readme-stats)
 <!--
